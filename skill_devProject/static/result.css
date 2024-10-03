@@ -1,0 +1,11 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-top: 320px;
+    padding: 0;
+    text-align: center;
+    background-image: url('bg1.jpg');
+    
+}
+.out{
+    font-size: 50px;
+}
